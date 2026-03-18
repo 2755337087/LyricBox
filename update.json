@@ -1,0 +1,7 @@
+{
+  "versionCode": 6,
+  "versionName": "1.2.1",
+  "apkUrl": "https://gitee.com/你的用户名/你的仓库/releases/download/v1.1/app-release.apk",
+  "apkUrl2": "",
+  "updateLog": "修复歌词滚动问题，优化性能\n修复已知问题"
+}
