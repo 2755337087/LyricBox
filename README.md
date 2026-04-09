@@ -6,7 +6,7 @@
 # 功能介绍
 
 # 一、打轴功能
-打轴是为歌词添加时间标签，使歌词与音乐同步显示。提供三种模式：
+打轴是为歌词添加时间标签，使歌词与音乐同步显示。
 ## 1、 打轴功能区
 ###  起始按钮
 - 设置当前选中歌词单元的开始时间
@@ -140,7 +140,17 @@
 
 
 # 四、截图预览
+<p align="center">
+  <img src="https://raw.githubusercontent.com/2755337087/LyricBox/main/Screenshots/mainPage.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/2755337087/LyricBox/main/Screenshots/musicLibraryPage.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/2755337087/LyricBox/main/Screenshots/searchPage.jpg" width="30%" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/2755337087/LyricBox/main/Screenshots/lyricEditPage.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/2755337087/LyricBox/main/Screenshots/lyricPrePage.jpg" width="30%" />
+  <img src="https://raw.githubusercontent.com/2755337087/LyricBox/main/Screenshots/musicEditPage.jpg" width="30%" />
+</p>
 
 ---
 # 五、特别感谢
